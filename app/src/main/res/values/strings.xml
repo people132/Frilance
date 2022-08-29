@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Frilance</string>
+    <string name="enter">Войти</string>
+    <string name="regist">Регистрация</string>
+    <string-array name="spin">
+        <item>Заказчик</item>
+        <item>Фрилансер</item>
+    </string-array>
+</resources>
